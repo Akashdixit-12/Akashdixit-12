@@ -20,12 +20,6 @@
 - SQL
 - JavaScript
 
-### Web Development
-- HTML
-- CSS
-- React JS
-- Node JS (Learning)
-
 ### AI / ML
 - NumPy
 - Pandas
@@ -33,6 +27,8 @@
 - Seaborn
 - Basic Machine Learning
 - Speech Recognition
+- Streamlit
+- FastAPI
 
 ### Tools & Platforms
 - Git / GitHub
