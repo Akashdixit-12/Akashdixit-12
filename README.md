@@ -18,6 +18,7 @@
 - Python
 - C / C++
 - SQL
+- Java
 
 ### AI / ML
 - NumPy
@@ -27,12 +28,15 @@
 - Basic Machine Learning
 - Speech Recognition
 - Streamlit
-- FastAPI
 - Ollama
 - Redis
 - Computer Vision
 - YoloV8
 - GeminiAI API / OpenAI API
+
+### Backend 
+- FastAPI
+- Spring / Spring Boot
 
 ### Tools & Platforms
 - Git / GitHub
@@ -42,6 +46,7 @@
 - Kaggle Notebook
 - OpenAI API
 - n8n
+- InteliJ
 
 ---
 
